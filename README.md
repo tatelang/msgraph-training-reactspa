@@ -2,7 +2,7 @@
 
 This module will introduce you to working with the Microsoft Graph in creating a React Native application to access data in Office 365.
 
-## Lab - React React Native Apps with the Microsoft Graph
+## Lab - React Native Apps with the Microsoft Graph
 
 In this lab you will create a React Native Apps, configured with Azure Active Directory (Azure AD) for authentication & authorization, that accesses data in Office 365 using the Microsoft Graph.
 
